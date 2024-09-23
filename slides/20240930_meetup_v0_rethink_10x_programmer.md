@@ -7,7 +7,7 @@ theme: kolumoana
   section { display: flex; justify-content: center; align-items: center;}
 </style>
 
-## もう一度考える 10x プログラマー
+# もう一度考える 10x プログラマー
 
 株式会社 コルモアナ
 
@@ -15,7 +15,7 @@ theme: kolumoana
 
 ---
 
-## 自己紹介
+# 自己紹介
 
 - 株式会社コルモアナ
 - ソフトウェアエンジニア
