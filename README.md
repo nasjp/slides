@@ -1,3 +1,5 @@
 # slides
 
-
+```sh
+./build.sh
+```
