@@ -33,9 +33,12 @@ for file in slides/*.md; do
   # HTMLの生成
   npx @marp-team/marp-cli@latest "$file" -o "$output_dir/output.html"
   
+  # ファイルの最初の#が現れた行の#以外の文字列を取得
+  first_line=$(sed -n 's/^# //p' "$file" | head -n 1)
+  
   # index.htmlにリンクを追加
   echo "                <li>" >> dist/index.html
-  echo "                    <span>$filename:</span>" >> dist/index.html
+  echo "                    <span>$first_line:</span>" >> dist/index.html
   echo "                    <ul>" >> dist/index.html
   echo "                        <li><a href=\"${output_dir#dist/}/output.html\">HTML</a></li>" >> dist/index.html
   echo "                        <li><a href=\"${output_dir#dist/}/output.pdf\">PDF</a></li>" >> dist/index.html
