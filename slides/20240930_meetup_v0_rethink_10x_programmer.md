@@ -23,6 +23,8 @@ theme: kolumoana
 - 寿司
 - 肉
 - 酒
+- Twitter: [@nasjp_dev](https://twitter.com/nasjp_dev)
+- GitHub: [@nasjp](https://github.com/nasjp)
 
 ![bg right:40% contain](https://corporate-henna-seven.vercel.app/_next/image?url=%2Ftaniguchi_avatar.png&w=3840&q=75)
 
