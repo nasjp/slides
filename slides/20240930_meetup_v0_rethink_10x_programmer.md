@@ -1,8 +1,17 @@
 ---
 marp: true
+theme: kolumoana
 ---
 
-## LLM を使って生産性を上げる
+<style scoped>
+  section { display: flex; justify-content: center; align-items: center;}
+</style>
+
+## もう一度考える 10x プログラマー
+
+株式会社 コルモアナ
+
+谷口幸宏
 
 ---
 
@@ -21,13 +30,18 @@ marp: true
 
 <style scoped>
   table { font-size: 48px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+  ul { font-size: 24px; position: absolute; bottom: 0; left: 0%; list-style-type: none;}
 </style>
 
 |                                                                                                | ユーザー数     | エンジニア数 |
 | ---------------------------------------------------------------------------------------------- | -------------- | ------------ |
 | ![WhatsApp Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)             | 4 億 5000 万人 | 32 名        |
 | ![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg) | 3000 万人      | 13 名        |
-| ![Dropbox Logo](https://upload.wikimedia.org/wikipedia/commons/c/cb/Dropbox_logo_2017.svg) | 10 万人      | 1 名        |
+| ![Dropbox Logo](https://upload.wikimedia.org/wikipedia/commons/c/cb/Dropbox_logo_2017.svg)     | 10 万人        | 1 名         |
+
+- Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/entry/the-happy-demise-of-the-10x-engineer)
+- Refs: [Dropbox の歴史｜Dropbox はこうして 5 億人超のユーザー支持を得た！](https://navi.dropbox.jp/dropbox-history)
+
 
 ---
 
@@ -40,8 +54,7 @@ marp: true
 - 欠陥除去効率 (Defect removal efficiency):
 - 欠陥原因 (Defect responsibility):
 
-Refs: [The origins of the 10x developer
-](https://medium.com/ingeniouslysimple/the-origins-of-the-10x-developer-2e0177ecef60)
+Refs: [The origins of the 10x developer](https://medium.com/ingeniouslysimple/the-origins-of-the-10x-developer-2e0177ecef60)
 
 ---
 
@@ -117,7 +130,7 @@ Refs: [The mythical 10x programmer](http://antirez.com/news/112)
 | 設計上の妥協               | ○                    | トレードオフの分析ができるが、最終判断には人間が判断することになる                                 |
 | シンプルさ                 | ○                    | シンプルなソリューションを提案できるが、仕様が壊れることもある                                     |
 | 完璧主義                   | △                    | 効率的アプローチを提案できるが、人間の個人の性格特性に依存                                         |
-| 知識                       | ◎                    | 枯れた技術に関してはほぼ完璧だが、新しい技術に関してはそれほど強くない                             |
+| 知識                       | ◎                    | 枯れた技術に関してはほぼ完璧だが、新しい技術に関��てはそれほど強くない                             |
 | 低レイヤの理解             | ○                    | 完璧だが、人間が低レイヤに対する理解を持っていることが重要                                         |
 | デバッグスキル             | ○                    | LLM は一般的なバグパターンの識別や修正方法を提案できるが、複雑なバグ解決には人間の経験や直感も重要 |
 
@@ -157,7 +170,7 @@ Refs: [The mythical 10x programmer](http://antirez.com/news/112)
 # 10x は場合による
 
 > ある状況では 1.5 倍、時には 100 倍の能力があるということです。
-> しかし、ソフトウェアの基盤の構築後では、ソフトウェアは職人の熟練の技の成果というよりは、Lego に似てきます。
+> しかし、ソフトウェアの基盤の構築後では、ソフ���ウェアは職人の熟練の技の成果というよりは、Lego に似てきます。
 > そこにおいて、基盤をもとに「10x」エンジニアが取り組んでいる仕事の成果の相対的倍数は、1x に近づきます。
 
 Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/entry/the-happy-demise-of-the-10x-engineer)

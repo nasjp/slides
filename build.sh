@@ -28,10 +28,10 @@ for file in slides/*.md; do
   mkdir -p "$output_dir"
   
   # PDFの生成
-  npx @marp-team/marp-cli@latest "$file" -o "$output_dir/output.pdf"
+  npx @marp-team/marp-cli@latest "$file" -o "$output_dir/output.pdf" --theme custom-theme.css
   
   # HTMLの生成
-  npx @marp-team/marp-cli@latest "$file" -o "$output_dir/output.html"
+  npx @marp-team/marp-cli@latest "$file" -o "$output_dir/output.html" --theme custom-theme.css
   
   # ファイルの最初の#が現れた行の#以外の文字列を取得
   first_line=$(sed -n 's/^# //p' "$file" | head -n 1)

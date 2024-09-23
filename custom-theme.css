@@ -1,0 +1,10 @@
+/* @theme kolumoana */
+
+@import 'default';
+
+section {
+	background-image: url(https://www.kolumoana.com/logo.png);
+	background-position: right 10px bottom 10px; /* 右下に少し隙間を追加 */
+	background-size: 50px 50px;
+	background-repeat: no-repeat;
+}
