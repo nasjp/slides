@@ -245,4 +245,4 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 ---
 
 
-https://www.cursor.com/blog/problems-2023
+<a href="https://www.cursor.com/blog/problems-2023" target="_blank" rel="noopener noreferrer">https://www.cursor.com/blog/problems-2023</a>
