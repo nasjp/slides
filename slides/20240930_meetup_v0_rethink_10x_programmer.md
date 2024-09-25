@@ -42,8 +42,7 @@ theme: kolumoana
 | ![Dropbox Logo](https://upload.wikimedia.org/wikipedia/commons/c/cb/Dropbox_logo_2017.svg)     | 10 万人        | 1 名         |
 
 - Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/entry/the-happy-demise-of-the-10x-engineer)
-- Refs: [Dropbox の歴史｜Dropbox はこうして 5 億人超のユーザー支持を得た！](https://navi.dropbox.jp/dropbox-history)
-
+- Refs: [Dropbox の歴史｜ Dropbox はこうして 5 億人超のユーザー支持を得た！](https://navi.dropbox.jp/dropbox-history)
 
 ---
 
@@ -189,7 +188,61 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 # 今からできる 10x の LLM 活用
 
-- 設計
+- 簡単なデモ
 - コード生成
 - デバッグ
 - ドキュメント作成
+
+---
+
+# v0
+
+---
+
+![bg contain 80%](20240930_meetup_v0_rethink_10x_programmer/1_v0.png)
+
+---
+
+![bg contain 80%](20240930_meetup_v0_rethink_10x_programmer/2_v0.png)
+
+---
+
+![bg contain 70%](20240930_meetup_v0_rethink_10x_programmer/3_v0.png)
+
+---
+
+# q term
+
+---
+
+![bg contain 70%](20240930_meetup_v0_rethink_10x_programmer/4_q_term.png)
+
+
+---
+
+# Genspark
+
+---
+
+![bg contain 60%](20240930_meetup_v0_rethink_10x_programmer/5_genspark.png)
+
+---
+
+# GPT Repository Loader
+
+---
+
+![bg contain 60%](20240930_meetup_v0_rethink_10x_programmer/6_gpt-repository-loader.png)
+
+---
+
+# Cursor
+
+---
+
+![bg contain 60%](20240930_meetup_v0_rethink_10x_programmer/7_cursor.png)
+
+---
+
+
+https://www.cursor.com/blog/problems-2023
