@@ -199,15 +199,15 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-![bg contain 80%](20240930_meetup_v0_rethink_10x_programmer/1_v0.png)
+![bg contain 80%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/1_v0.png)
 
 ---
 
-![bg contain 80%](20240930_meetup_v0_rethink_10x_programmer/2_v0.png)
+![bg contain 80%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/2_v0.png)
 
 ---
 
-![bg contain 70%](20240930_meetup_v0_rethink_10x_programmer/3_v0.png)
+![bg contain 70%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/3_v0.png)
 
 ---
 
@@ -215,7 +215,7 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-![bg contain 70%](20240930_meetup_v0_rethink_10x_programmer/4_q_term.png)
+![bg contain 70%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/4_q_term.png)
 
 
 ---
@@ -224,7 +224,7 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-![bg contain 60%](20240930_meetup_v0_rethink_10x_programmer/5_genspark.png)
+![bg contain 60%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/5_genspark.png)
 
 ---
 
@@ -232,7 +232,7 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-![bg contain 60%](20240930_meetup_v0_rethink_10x_programmer/6_gpt-repository-loader.png)
+![bg contain 60%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/6_gpt-repository-loader.png)
 
 ---
 
@@ -240,7 +240,7 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-![bg contain 60%](20240930_meetup_v0_rethink_10x_programmer/7_cursor.png)
+![bg contain 60%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/7_cursor.png)
 
 ---
 
