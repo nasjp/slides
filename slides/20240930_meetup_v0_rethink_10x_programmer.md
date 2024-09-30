@@ -46,19 +46,6 @@ theme: kolumoana
 
 ---
 
-![bg left:50% contain](https://miro.medium.com/v2/resize:fit:640/format:webp/1*9nu02vmjL-mk6iuYo9TeDQ.png)
-
-- 横軸: プログラマーのレベル
-
-- 欠陥検出率 (Defect detection rate):
-- 生産性 (Productivity):
-- 欠陥除去効率 (Defect removal efficiency):
-- 欠陥原因 (Defect responsibility):
-
-Refs: [The origins of the 10x developer](https://medium.com/ingeniouslysimple/the-origins-of-the-10x-developer-2e0177ecef60)
-
----
-
 # なんですか?
 
 - LLM を使ってエンジニアとしての生産性を上げる話をみんなでしたい
@@ -98,6 +85,19 @@ Refs: [The mythical 10x programmer](http://antirez.com/news/112)
 > たとえ、同じ訓練と 2 年間の経験を経ているとしても。
 
 Refs: [人月の神話 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E6%9C%88%E3%81%AE%E7%A5%9E%E8%A9%B1)
+
+---
+
+![bg left:50% contain](https://miro.medium.com/v2/resize:fit:640/format:webp/1*9nu02vmjL-mk6iuYo9TeDQ.png)
+
+- 横軸: プログラマーのレベル
+
+- 欠陥検出率 (Defect detection rate):
+- 生産性 (Productivity):
+- 欠陥除去効率 (Defect removal efficiency):
+- 欠陥原因 (Defect responsibility):
+
+Refs: [The origins of the 10x developer](https://medium.com/ingeniouslysimple/the-origins-of-the-10x-developer-2e0177ecef60)
 
 ---
 
@@ -240,12 +240,14 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-![bg contain 60%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/7_cursor.png)
+![bg contain left:60%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/7_cursor.png)
+
+
+[Our Problems](https://www.cursor.com/blog/problems-2023)
 
 ---
 
 
-[Our Problems](https://www.cursor.com/blog/problems-2023)
 
 ---
 
@@ -256,4 +258,7 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-![bg contain 60%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/8_agda.png)
+![bg left:30% contain](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/8_agda.png)
+
+
+https://x.com/VictorTaelin/status/1837925011187027994
