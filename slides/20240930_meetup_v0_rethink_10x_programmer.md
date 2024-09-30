@@ -9,9 +9,9 @@ theme: kolumoana
 
 # もう一度考える 10x プログラマー
 
-株式会社 ValueUp
+ValueUp株式会社
 
-株式会社 コルモアナ
+株式会社コルモアナ
 
 谷口幸宏
 
@@ -20,7 +20,7 @@ theme: kolumoana
 # 自己紹介
 
 - 株式会社コルモアナ
-- 株式会社ValueUp
+- ValueUp株式会社
 - ソフトウェアエンジニア
 - 谷口幸宏
 - 寿司
