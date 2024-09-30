@@ -247,10 +247,6 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 ---
 
-
-
----
-
 # Other
 
 - [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
