@@ -245,4 +245,15 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 ---
 
 
-<a href="https://www.cursor.com/blog/problems-2023" target="_blank" rel="noopener noreferrer">https://www.cursor.com/blog/problems-2023</a>
+[Our Problems](https://www.cursor.com/blog/problems-2023)
+
+---
+
+# Other
+
+- [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+- [AI-scripts/agda2ts.mjs](https://github.com/VictorTaelin/AI-scripts/blob/main/agda2ts.mjs)
+
+---
+
+![bg contain 60%](https://raw.githubusercontent.com/nasjp/slides/refs/heads/main/slides/20240930_meetup_v0_rethink_10x_programmer/8_agda.png)
