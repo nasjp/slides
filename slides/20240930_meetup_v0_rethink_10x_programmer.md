@@ -258,3 +258,10 @@ Refs: [10x エンジニアの幸福な終焉 (a16z)](https://review.foundx.jp/en
 
 
 https://x.com/VictorTaelin/status/1837925011187027994
+
+---
+
+# おわりに
+
+- 来月は **10/15(火)** に開催します
+- ご歓談
