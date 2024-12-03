@@ -19,8 +19,8 @@ cat <<EOT > dist/index.html
             <ul>
 EOT
 
-# slidesディレクトリ内のすべての.mdファイルをループ処理
-for file in slides/*.md; do
+# slidesディレクトリ内のすべての.mdファイルを逆順でループ処理
+for file in $(ls -r slides/*.md); do
   filename=$(basename "$file" .md)
   output_dir="dist/$filename"
   
